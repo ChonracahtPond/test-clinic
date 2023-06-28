@@ -9,11 +9,12 @@ export default function NavComponent() {
             <div className="dropdown">
                 <span>Mouse over me</span>
                 <div className="dropdown-content">
-                    <p className=" text-black">Hello World!</p>
-                    <p className="text-black">Hello World!</p>
-                    <p className="text-black">Hello World!</p>
+                    <p className=" ">Hello World!</p>
+                    <p className="">Hello World!</p>
+                    <p className="">Hello World!</p>
                 </div>
             </div>
+
             <ul>
 
                 <li>

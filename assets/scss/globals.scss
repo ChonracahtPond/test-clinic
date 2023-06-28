@@ -48,12 +48,13 @@ body{
 .dropdown {
   position: relative;
   display: inline-block;
+  
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #E0BFB8;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   padding: 12px 16px;
@@ -65,4 +66,5 @@ body{
 }
 .dropdown p{
   text-align: center;
+  
 }
